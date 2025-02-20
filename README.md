@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdirahman Abdullahi</h1>
+<h1 align="center">Hi 👋, I'm Abdirahman Abdalla</h1>
 <h3 align="center">Aspiring Software Engineer | Cybersecurity Enthusiast | Ethical Hacking & Web Security</h3>
 
 - 📫 How to reach me **caalamisiciid111@gmail.com**
